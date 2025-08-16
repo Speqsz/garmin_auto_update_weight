@@ -1,0 +1,16 @@
+<manifest>
+    <application>
+        <name>Garmin Workout Updater</name>
+        <version>25.8.0</version>
+        <description>A Garmin application that automatically updates workout plans with the user's last recorded weight.</description>
+        <author>Thomas Stubbs</author>
+        <permissions>
+            <permission>read_workout_data</permission>
+            <permission>write_workout_data</permission>
+        </permissions>
+        <features>
+            <feature>workout_tracking</feature>
+            <feature>data_storage</feature>
+        </features>
+    </application>
+</manifest>

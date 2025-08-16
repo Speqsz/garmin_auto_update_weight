@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Garmin Workout Updater</string>
+    <string name="update_success">Workout plan updated successfully!</string>
+    <string name="update_failure">Failed to update workout plan. Please try again.</string>
+    <string name="fetch_weight_success">Last workout weight retrieved successfully.</string>
+    <string name="fetch_weight_failure">Failed to retrieve last workout weight.</string>
+    <string name="no_weight_recorded">No weight recorded in the last workout.</string>
+</resources>
